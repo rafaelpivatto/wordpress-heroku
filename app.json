@@ -1,0 +1,13 @@
+{
+  "name": "Heroku Wordpress Demo",
+  "description": "Spin up Wordpress on Heroku.",
+  "website": "https://github.com/sfielder/wordpress-heroku",
+  "repository": "https://github.com/sfielder/wordpress-heroku",
+  "logo": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg",
+  "scripts": {},
+  "env": {
+    "RAILS_ENV": "production"
+  },
+  "addons": ["heroku-postgresql", "newrelic:stark", "papertrail"]
+
+}
