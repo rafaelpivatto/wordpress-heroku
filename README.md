@@ -4,6 +4,9 @@ This project is a template for installing and running [WordPress](http://wordpre
 
 ## Installation
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
 Clone the repository from Github
 
     $ git clone git://github.com/mhoofman/wordpress-heroku.git
