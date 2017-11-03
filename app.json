@@ -8,6 +8,6 @@
   "env": {
     "RAILS_ENV": "production"
   },
-  "addons": ["heroku-postgresql", "newrelic:wayne", "papertrail"]
+  "addons": ["heroku-postgresql"]
 
 }
