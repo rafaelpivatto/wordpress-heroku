@@ -1,8 +1,8 @@
 {
   "name": "Heroku Wordpress Demo",
   "description": "Spin up Wordpress on Heroku.",
-  "website": "https://github.com/sfielder/wordpress-heroku",
-  "repository": "https://github.com/sfielder/wordpress-heroku",
+  "website": "https://github.com/rafaelpivatto/wordpress-heroku",
+  "repository": "https://github.com/rafaelpivatto/wordpress-heroku",
   "logo": "http://www.nmu.edu/mcnairscholars/sites/DrupalMcNairScholars/files/UserFiles/Wordpress-logo.jpg",
   "scripts": {},
   "env": {
